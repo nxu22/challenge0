@@ -16,7 +16,7 @@ puts "Subtotal: $#{(sub_total)}"
 puts "PST: $#{(total_PST)}"
 puts "GST: $#{(total_GST)}"
 puts "grand_total: $#{(grand_total)}"
-# second  question
+# second question
 
 if grand_total <= 5.00
   puts "Pocket Change"
